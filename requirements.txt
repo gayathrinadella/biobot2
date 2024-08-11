@@ -9,3 +9,4 @@ bitsandbytes
 peft
 accelerate
 mlx
+truelens-eval
