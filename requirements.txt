@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+torch
+torchvision
+torchaudio
+transformers
+datasets
+bitsandbytes
+peft
+accelerate
+mlx
